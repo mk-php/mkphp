@@ -1,0 +1,21 @@
+{
+  "name": "mkphp/mkphp",
+  "description": "The MKPHP Framework.",
+  "type": "project",
+  "keywords": ["php", "MKPHP","framework"],
+  "license": "MIT",
+  "homepage": "https://www.makun.com",
+  "authors": [
+    {
+      "name": "Makun",
+      "email": "code@makun.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+
+  "autoload": {
+
+  }
+}
